@@ -3,7 +3,7 @@
 
 # README #
 
-_Este readme sirve como explicación de que he escrito en el código y cual es el objetivo del mismo._
+_Este readme sirve como explicación de que he escrito en el código y cuál es el objetivo del mismo._
 
 ## Resumen ##
 _Con este programa es posible conseguir una aproximación iterativa al numero Pi mediante un método conocido como el método Montecarlo._
@@ -33,7 +33,7 @@ git version 2.33
 ## Comandos para comprobar y ejecutar el programa ⚙️
 
 _En primer lugar se deberá comprobar que compila correctamente mediante el comando que ofrece nuestro makefile.
-Tenemos que estar situados en el directorio donde esta el makefile_
+Tenemos que estar situados en el directorio donde está el makefile_
 
 ```
 make compilar  
